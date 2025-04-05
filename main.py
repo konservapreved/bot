@@ -4,7 +4,7 @@ import logging
 import os
 
 # ✅ Вставь сюда свой токен
-TOKEN = "7375977414:AAG-oZ8bSpGPN5H5_XqMLc2seVj-Xo4_rYw"
+TOKEN = "7670912978:AAGoMPMprGDhjV4S0gXZo0R_07Oy1imayuU"
 
 # ✅ Вставь сюда свой Telegram user ID (чтобы получать уведомления)
 ADMIN_CHAT_ID = 206005992
